@@ -1,3 +1,4 @@
+[project]
 name = "pollstats"
 version = "0.0.1"
 authors = [
